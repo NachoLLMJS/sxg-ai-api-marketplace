@@ -4,8 +4,8 @@
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 54,
-      "sha256": "72b5a420d6ca512704b8ca75b96d982f062ba0913467ae068e0078d2d2c9bb6c"
+      "bytes": 65,
+      "sha256": "5f9bacdf661b973c525cf8b38eddef5eee899345a53f9ec526f936dda4bfdda6"
     },
     {
       "path": "api/room",
@@ -49,8 +49,8 @@
     },
     {
       "path": "docs/index.html",
-      "bytes": 8555,
-      "sha256": "c2021220908f43c6f303701f7802da788d7e320ff7659eb947ff890db60315e7"
+      "bytes": 8468,
+      "sha256": "052519b5856dfbc185880050baf27fe8282ccf5179ccce60f389bd42e710b781"
     },
     {
       "path": "docs.css",
@@ -69,8 +69,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 7754,
-      "sha256": "d9b77d5baee70a6ff7ff8a2afeeb402693ed6155bb3d07a656bab7a9cb5dd464"
+      "bytes": 7464,
+      "sha256": "0a2120e863edbcd0bb6c8f43ba38ea610e9191f80f58b4205f9f4a6798e37127"
     },
     {
       "path": "main.js",
