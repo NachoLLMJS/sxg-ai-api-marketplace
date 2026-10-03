@@ -1,0 +1,131 @@
+{
+  "source_visual_baseline": "https://sxg.systems/",
+  "reworked": "2026-10-03",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 54,
+      "sha256": "72b5a420d6ca512704b8ca75b96d982f062ba0913467ae068e0078d2d2c9bb6c"
+    },
+    {
+      "path": "api/room",
+      "bytes": 41,
+      "sha256": "b221d017d5f790f930803ddc1e7f72b732c334ed058b8223ccc28235a5f519e8"
+    },
+    {
+      "path": "api/service",
+      "bytes": 504,
+      "sha256": "d28fc1d83742a92d7f49e4e7a116a38d259462693e0db2fc220bcfcbc8f99ed3"
+    },
+    {
+      "path": "brand/apple-touch-icon.png",
+      "bytes": 28580,
+      "sha256": "b77a0a37c3444a8f21899b9092edaed9918d050943e47da13e3648c191621494"
+    },
+    {
+      "path": "brand/favicon-32.png",
+      "bytes": 3302,
+      "sha256": "79c42e401b0472204d4fa71547f4d0b90fcaea002f766344f63d991184fc69cc"
+    },
+    {
+      "path": "brand/logo-120.png",
+      "bytes": 20763,
+      "sha256": "a0de635503e4f0befd379f23b99f6c309227d714321abdda5ea27c6b6ef256e5"
+    },
+    {
+      "path": "brand/logo-192.png",
+      "bytes": 45037,
+      "sha256": "d9cd69fd3de1934e4e87b92b3d680579ab88a91097148aef24d5bad1e4368312"
+    },
+    {
+      "path": "brand/logo-512.png",
+      "bytes": 188521,
+      "sha256": "cd9ff75e994ecc29214e631d193f0f5f9ad719b7a04412213ee5299397fa49b9"
+    },
+    {
+      "path": "brand/og.png",
+      "bytes": 66672,
+      "sha256": "8c671640a37eebdcf667f475dec18dadbfe5572e194ef08ef4708a2f5ff2238d"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 8555,
+      "sha256": "c2021220908f43c6f303701f7802da788d7e320ff7659eb947ff890db60315e7"
+    },
+    {
+      "path": "docs.css",
+      "bytes": 3866,
+      "sha256": "d953c811a92b92f9c1a8352aee59df0289ceb1052134c595b3511cd929a8c2a2"
+    },
+    {
+      "path": "docs.js",
+      "bytes": 482,
+      "sha256": "5f8db0ccfcd7e587822b3fb038c3792a64db63969717a1fb077ea0adf9df0a3a"
+    },
+    {
+      "path": "favicon.ico",
+      "bytes": 15086,
+      "sha256": "d453ea4c991091803172b4c0e3499a0c6a1f9da8eab02785cc39d327d68fdcef"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7754,
+      "sha256": "d9b77d5baee70a6ff7ff8a2afeeb402693ed6155bb3d07a656bab7a9cb5dd464"
+    },
+    {
+      "path": "main.js",
+      "bytes": 36268,
+      "sha256": "0c6af5e68f2500833fd6b9b7a3871669b4b98261bbe75c953afac08afd3f32d2"
+    },
+    {
+      "path": "marketplace-panel.js",
+      "bytes": 10650,
+      "sha256": "4b88eebd6a1ca3c437f5be71b36710e5ba4fb52486b32b15cf5ec5edc38943d6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 701,
+      "sha256": "e2abccc4eced5f6c0fe7d7a1bee9a8dc7f11fb0c8b73658c01a055eb0af6a388"
+    },
+    {
+      "path": "server.py",
+      "bytes": 1051,
+      "sha256": "8205c7f8001cca9a4f29e2a614f265d3b73051e6d9b27d1c7f4d3be12f5f2402"
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 333,
+      "sha256": "7aef993176cad3118b1f80a07c1651db3e7dc10e039082abb559d5e3d924f56e"
+    },
+    {
+      "path": "style.css",
+      "bytes": 26649,
+      "sha256": "c1942ecfdfdc3e23905e64b5581bdda335f4b38425ccc5c231343c87480eb966"
+    },
+    {
+      "path": "vendor/three/addons/environments/RoomEnvironment.js",
+      "bytes": 3606,
+      "sha256": "85869bdd22f7cf0b22e68dcefe6cb710480af0f5c901a76f7a7764fd07fc8014"
+    },
+    {
+      "path": "vendor/three/addons/geometries/RoundedBoxGeometry.js",
+      "bytes": 4625,
+      "sha256": "d20aeaf7077c459a8d952d215738d7b44fba028440bb862d84b622a34f0c80bb"
+    },
+    {
+      "path": "vendor/three/three.module.js",
+      "bytes": 1314681,
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 517,
+      "sha256": "eeb23c3cdf56e12e597b0c1d2552686285ce4c8d9f7fbaef7ee17e307a604388"
+    },
+    {
+      "path": "workers.js",
+      "bytes": 6886,
+      "sha256": "e1c0c570ff2d552ecede915f0681dbd6aabbb378c12b7903a57411f2d0011cd5"
+    }
+  ]
+}
