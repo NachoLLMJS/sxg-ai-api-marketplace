@@ -48,9 +48,9 @@
       "sha256": "550259fac63aeca991d37f82c4a7d67a166c1e057a184c8d05b5aa7489b8de62"
     },
     {
-      "path": "brand/og.png",
-      "bytes": 137543,
-      "sha256": "ad745c9b1c85bea75847433bb8243e95243785439cee059c37c6a3ba94a8795f"
+      "path": "brand/og-input.png",
+      "bytes": 218365,
+      "sha256": "b313a805e0a5e6058d4b0127e8a8290651d1cf35701a42ed47e62bf312ef888c"
     },
     {
       "path": "docs.css",
@@ -74,8 +74,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 7564,
-      "sha256": "6384ef7ea5c019e28f92b07337e1156017e7a002226e0b5be2057a2996cf597e"
+      "bytes": 7833,
+      "sha256": "5e96cae68ada160330ed6a084811a2ca581cc1eb71ec96cabf6e42739929019e"
     },
     {
       "path": "main.js",
