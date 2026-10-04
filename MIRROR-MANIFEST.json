@@ -1,11 +1,11 @@
 {
-  "source_visual_baseline": "https://sxg.systems/",
-  "reworked": "2026-10-03",
+  "source_visual_baseline": "archived before the INPUT rebrand",
+  "reworked": "2026-10-04",
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 65,
-      "sha256": "5f9bacdf661b973c525cf8b38eddef5eee899345a53f9ec526f936dda4bfdda6"
+      "bytes": 60,
+      "sha256": "f817e0013704e45c72f3ccfb9e3cbe70c4c8eff3e49223505dd266a05441c7ed"
     },
     {
       "path": "api/room",
@@ -19,43 +19,43 @@
     },
     {
       "path": "brand/apple-touch-icon.png",
-      "bytes": 28580,
-      "sha256": "b77a0a37c3444a8f21899b9092edaed9918d050943e47da13e3648c191621494"
+      "bytes": 18209,
+      "sha256": "29d9860cbe1d0682f1cb51813424ebb87c8cf56e3fe21c6af35828f23486e5e7"
     },
     {
       "path": "brand/favicon-32.png",
-      "bytes": 3302,
-      "sha256": "79c42e401b0472204d4fa71547f4d0b90fcaea002f766344f63d991184fc69cc"
+      "bytes": 889,
+      "sha256": "5dc567685b375011c9968393dbcf74097d54bed9a671e914c2d849d809f9e433"
+    },
+    {
+      "path": "brand/favicon-512.png",
+      "bytes": 148149,
+      "sha256": "1f3ab9c0fac365edf9662b394709665fb1bac20de32054764d7c23547753111e"
     },
     {
       "path": "brand/logo-120.png",
-      "bytes": 20763,
-      "sha256": "a0de635503e4f0befd379f23b99f6c309227d714321abdda5ea27c6b6ef256e5"
+      "bytes": 9051,
+      "sha256": "7a756963efd3f76104074cc0e86b7dfec4a42ca1b4ba5a33c96a6906b53737ce"
     },
     {
       "path": "brand/logo-192.png",
-      "bytes": 45037,
-      "sha256": "d9cd69fd3de1934e4e87b92b3d680579ab88a91097148aef24d5bad1e4368312"
+      "bytes": 20517,
+      "sha256": "068d8607244540afa1695d7820631479659e6cd937f299aefecbc2e0494f1ab7"
     },
     {
       "path": "brand/logo-512.png",
-      "bytes": 188521,
-      "sha256": "cd9ff75e994ecc29214e631d193f0f5f9ad719b7a04412213ee5299397fa49b9"
+      "bytes": 106080,
+      "sha256": "550259fac63aeca991d37f82c4a7d67a166c1e057a184c8d05b5aa7489b8de62"
     },
     {
       "path": "brand/og.png",
-      "bytes": 66672,
-      "sha256": "8c671640a37eebdcf667f475dec18dadbfe5572e194ef08ef4708a2f5ff2238d"
-    },
-    {
-      "path": "docs/index.html",
-      "bytes": 8468,
-      "sha256": "052519b5856dfbc185880050baf27fe8282ccf5179ccce60f389bd42e710b781"
+      "bytes": 137543,
+      "sha256": "ad745c9b1c85bea75847433bb8243e95243785439cee059c37c6a3ba94a8795f"
     },
     {
       "path": "docs.css",
-      "bytes": 3866,
-      "sha256": "d953c811a92b92f9c1a8352aee59df0289ceb1052134c595b3511cd929a8c2a2"
+      "bytes": 3892,
+      "sha256": "57b40f1550fc87b1c0919a9a223003150d82967122be96d8b5f13a57899c0849"
     },
     {
       "path": "docs.js",
@@ -63,19 +63,24 @@
       "sha256": "5f8db0ccfcd7e587822b3fb038c3792a64db63969717a1fb077ea0adf9df0a3a"
     },
     {
+      "path": "docs/index.html",
+      "bytes": 8565,
+      "sha256": "f2decbb4216dc95eaff11d7a0d29eebd7fb173e22ba396f8ff8ce32e856c8645"
+    },
+    {
       "path": "favicon.ico",
-      "bytes": 15086,
-      "sha256": "d453ea4c991091803172b4c0e3499a0c6a1f9da8eab02785cc39d327d68fdcef"
+      "bytes": 44628,
+      "sha256": "df9196e9942fc183e0e316b5fd9d020211a46cd9ced84f9a124049a0304993bd"
     },
     {
       "path": "index.html",
-      "bytes": 7464,
-      "sha256": "0a2120e863edbcd0bb6c8f43ba38ea610e9191f80f58b4205f9f4a6798e37127"
+      "bytes": 7564,
+      "sha256": "6384ef7ea5c019e28f92b07337e1156017e7a002226e0b5be2057a2996cf597e"
     },
     {
       "path": "main.js",
-      "bytes": 36268,
-      "sha256": "0c6af5e68f2500833fd6b9b7a3871669b4b98261bbe75c953afac08afd3f32d2"
+      "bytes": 36270,
+      "sha256": "23caf26bc7ea2134da4f5c6d5747df2b1efc027163e24b19bf7abcae3bb4ef96"
     },
     {
       "path": "marketplace-panel.js",
@@ -84,23 +89,23 @@
     },
     {
       "path": "README.md",
-      "bytes": 701,
-      "sha256": "e2abccc4eced5f6c0fe7d7a1bee9a8dc7f11fb0c8b73658c01a055eb0af6a388"
+      "bytes": 715,
+      "sha256": "5c13fe60c4949952d3e65a3645d498e7a1587c8ca750b48fbcdc93d89a79dd08"
     },
     {
       "path": "server.py",
-      "bytes": 1051,
-      "sha256": "8205c7f8001cca9a4f29e2a614f265d3b73051e6d9b27d1c7f4d3be12f5f2402"
+      "bytes": 1052,
+      "sha256": "9c9bce9b00c710d20e25f5d704e1d91d94dc51652841a0f7ef99e4e61e1e28e8"
     },
     {
       "path": "site.webmanifest",
-      "bytes": 333,
-      "sha256": "7aef993176cad3118b1f80a07c1651db3e7dc10e039082abb559d5e3d924f56e"
+      "bytes": 337,
+      "sha256": "beb3d7251a2c83a586cf7a42ca7fd9bd935120a0acced1aa3999e4574a4702c3"
     },
     {
       "path": "style.css",
-      "bytes": 26649,
-      "sha256": "c1942ecfdfdc3e23905e64b5581bdda335f4b38425ccc5c231343c87480eb966"
+      "bytes": 26692,
+      "sha256": "45e72a34758db9628b8d27b7f07a060c6c2f0d37a6aeffcf64953e2af63d8ff0"
     },
     {
       "path": "vendor/three/addons/environments/RoomEnvironment.js",

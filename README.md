@@ -1,7 +1,7 @@
-SXG AI API marketplace local build
+INPUT AI API marketplace local build
 
-Source visual baseline: https://sxg.systems/
-Reworked locally: October 3, 2026
+Source visual baseline archived before the INPUT rebrand
+Reworked locally: October 4, 2026
 
 Run locally:
   python server.py

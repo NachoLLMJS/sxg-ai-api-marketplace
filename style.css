@@ -59,7 +59,7 @@ header{z-index:7}
 .vault-yield{font:28px/1.2 var(--mono);color:#e6efd9;margin:0 0 6px}.vault-yield span{font:18px Arial,sans-serif;color:#a9b9a3}
 #product-line>p{font-size:18px;line-height:1.45;max-width:520px}
 @media(max-width:600px){#product-line>p{font-size:18px;max-width:340px}}
-.brand-logo{display:block;width:34px;height:auto;image-rendering:pixelated}.loading-logo{width:68px;animation:breathe 1.4s ease-in-out infinite}@media(max-width:500px){.brand-logo{width:30px}}
+.brand-logo{display:block;width:40px;height:40px;object-fit:contain;image-rendering:pixelated}.loading-logo{width:76px;height:76px;animation:breathe 1.4s ease-in-out infinite}@media(max-width:500px){.brand-logo{width:34px;height:34px}}
 #x-link{width:34px;height:34px;display:grid;place-items:center;border:1px solid #a1afba36;border-radius:50%;color:#cdd8dc;pointer-events:auto;transition:color .2s,border-color .2s}#x-link:hover{color:#fff;border-color:#adbdc588}#x-link svg{width:15px;height:15px;fill:currentColor;stroke:none}@media(max-width:600px){#x-link{width:30px;height:30px}}
 .wallet-name{display:flex;align-items:center;gap:12px}.wallet-name img{width:28px;height:28px;border-radius:7px;flex:none}#docs-link{font:10px var(--mono);color:#e2e6dd;text-decoration:none;padding:8px 0;pointer-events:auto}#docs-link:hover{color:#fff}
 

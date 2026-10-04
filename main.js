@@ -270,7 +270,7 @@ const heatsink=new THREE.Group(),hb=builder(heatsink);machine.add(heatsink);
 hb.box(0,.66,0,6.8,.12,5,0x637269);
 for(let i=0;i<44;i++)hb.box(-3.25+i*.15,1,0,.045,.62,4.8,palette.edge);
 hb.finish();heatsink.visible=false;
-const machineLabel=textPlate(machine,'SXG    /    API ROUTER 08',0,-.03,3.18,3,.24,'#bfcca9');machineLabel.rotation.x=-Math.PI/2;
+const machineLabel=textPlate(machine,'INPUT    /    API ROUTER 08',0,-.03,3.18,3,.24,'#bfcca9');machineLabel.rotation.x=-Math.PI/2;
 // 03 / Silicon die: nested parallel compute arrays and dense memory cells.
 const silicon=groups[2],sb=builder(silicon);
 sb.box(0,-.34,0,12,.55,10,palette.dark);sb.box(0,-.04,0,11.8,.055,9.8,palette.gold);sb.box(0,.02,0,11.55,.055,9.55,0x254036);
